@@ -5,6 +5,7 @@
 - kotlin 🏝️
 - java ☕️
 - python 🐍
+- rust ⚙️ (learning)
 
 <!--
 <p align="center">
