@@ -1,5 +1,3 @@
-## wsg 👋
-
 ### projects 📁
 - n/a
 
