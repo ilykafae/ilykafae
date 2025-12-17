@@ -1,5 +1,5 @@
 ### projects 📁
-- n/a
+- [artifactory](https://github.com/ilykafae/artifactory)
 
 ### languages 📝
 - kotlin 🏝️
