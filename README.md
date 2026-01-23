@@ -1,12 +1,11 @@
-### projects 📁
-- [artifactory](https://github.com/ilykafae/artifactory)
-- [cafelib](https://github.com/ilykafae/cafelib)
+developer from hk
+does random shit for run ig
 
 ### languages 📝
 - kotlin 🏝️
 - java ☕️
 - python 🐍
-- rust ⚙️ (learning)
+- c (learning) 🇨
 
 <!--
 <p align="center">
