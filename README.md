@@ -5,7 +5,9 @@ does random shit for run ig
 - kotlin 🏝️
 - java ☕️
 - python 🐍
-- c (learning) 🇨
+- c++ (learning) 🌊
+
+@ [naptify ☁️](https://github.com/naptify)
 
 <!--
 <p align="center">
